@@ -64,7 +64,7 @@ const Home = () => {
                     <Button text="Заказать демонстрацию" className="mt-[30px] text-white" />
                 </div>
                 <div>
-                    <img src="../../public/Grocery shopping-amico 2.png" alt="iamge" loading="lazy" />
+                    <img src="/Grocery shopping-amico 2.png" alt="image" loading="lazy" />
                 </div>
             </section>
 
